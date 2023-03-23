@@ -25,5 +25,9 @@ For å tegne grafer i python kan vi bruke bibloteket `matplotlib`.
     ylim(0, 4) #Bestemmer hvilke y-verdier som skal være synlige i grafen
 ```
 
+## Eksempel
+
+[Plotting av kolsåstoppen](./innhente-data)
+
 ## Lage nettsider (HTML/Flask)
 
